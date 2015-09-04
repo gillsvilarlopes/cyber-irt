@@ -14,4 +14,4 @@ tab year cyb_importance
 tab cyb_importance theory, nofreq col
 
 //TABLE 3
-tab theory ir_theory, missing
+tab theory ir_theory
