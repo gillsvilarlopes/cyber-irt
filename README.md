@@ -1,6 +1,6 @@
 # International Relations (IR) theories and Cybersecurity
 
-This public repository contains files (data base - DB, scripts, and images) which function is support a paper on International Relations (IR) theories and Cybersecurity.
+This public repository contains files (data base - DB and a script) which function is support a paper on International Relations (IR) theories and Cybersecurity.
 
 This is about an academic paper that aims to made analyses between IR theories and Cybersecurity at the international security level.
 
