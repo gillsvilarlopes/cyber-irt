@@ -1,4 +1,6 @@
-//Opening cyber-irt database (DB) and cleaning Stata memory
+//This is a script to be oppen in the STATA software
+
+//Opening cyber-irt database (DB)
 use db.dta
 
 //As there are many observations, we suggest that the comand MORE be setted off 
